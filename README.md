@@ -1,7 +1,7 @@
 ### Hi, I'm Alexandre 👋
  
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alexandrebetioli/) &nbsp;
-[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/apbetioli) &nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alexandrebetioli/)
+[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/apbetioli)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:apbetioli@gmail.com)
 
 
@@ -15,13 +15,13 @@
 ## 📖 Read my blog:
 
 <p>
-<a target="_blank"href="https://dev.to/abetioli"><img alt="dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;
+<a target="_blank"href="https://dev.to/abetioli"><img alt="dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
 </p>
 
 ## 🏆 My stats:
 
 <p>
-<img height=200 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=apbetioli&show_icons=true&count_private=true&theme=transparent" />&nbsp;&nbsp;
-<img height=200 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apbetioli&layout=compact&theme=transparent&langs_count=8" />&nbsp;&nbsp;
+<img height=200 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=apbetioli&show_icons=true&count_private=true&theme=transparent" />
+<img height=200 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apbetioli&layout=compact&theme=transparent&langs_count=8" />
 </p>
 
