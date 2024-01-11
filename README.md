@@ -21,7 +21,7 @@
 ## 🏆 My stats:
 
 <p>
-<img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=apbetioli&show_icons=true&count_private=true&theme=transparent" />
+<img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=apbetioli&show_icons=true&count_private=true&theme=transparent&rank_icon=github&hide=contribs" />
 <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apbetioli&layout=compact&theme=transparent" />
 </p>
 
