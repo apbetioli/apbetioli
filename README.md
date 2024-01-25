@@ -5,19 +5,19 @@
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:apbetioli@gmail.com)
 
 
-- 🔭 I’m currently working on **AI tools for ExplosionAI**
-- 🌱 I’m currently learning **NLP**
-- 👯 I’m looking to collaborate on **Web3 projects**
-- 🤔 I’m looking for help with **Recreating Zork with modern NLP tools**
+- 🔭 I’m currently working on **[Prodigy Teams](https://prodigy.ai/teams) for ExplosionAI**
+- 🌱 I’m ~currently~ always learning **Javascript**
+- 👯 I’m looking to collaborate on **open source**
+- 🤔 I’m looking for help with **expanding my network**
 - 👽 Fun fact: **I built many 3d printers from scratch and have a [3d printing youtube channel](https://www.youtube.com/channel/UCsW8AqQR62iwXoiWYfe-ovA)**
 - 🎮 Another fun fact: **I created a [Unity tool](https://assetstore.unity.com/packages/tools/level-design/moving-platform-maker-2d-71886) to help you create 2D moving platforms for your game**
-
+<!--
 ## 📖 Read my blog:
 
 <p>
 <a target="_blank"href="https://dev.to/abetioli"><img alt="dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
 </p>
-
+-->
 ## 🏆 My stats:
 
 <p>
