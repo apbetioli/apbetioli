@@ -1,6 +1,6 @@
 ### Hi, I'm Alexandre 👋
  
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alexandrebetioli/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/apbetioli/)
 [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/apbetioli)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:apbetioli@gmail.com)
 
