@@ -6,6 +6,8 @@ I'm a Software Engineer with 15 years of experience in full-stack development wi
 
 I also ventured into co-founding a company, creating a fast site for capturing emails and selling courses. I also fulfilled the roles of content creator, video editor, and marketing specialist. This adventure taught me a lot and improved my soft skills to a new level.
 
+[Check my website](apbetioli.github.io)
+
 ## Get in contact!
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/apbetioli/)
@@ -33,6 +35,6 @@ I also ventured into co-founding a company, creating a fast site for capturing e
 
 <p>
 <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=apbetioli&show_icons=true&count_private=true&theme=transparent&rank_icon=github&hide=contribs" />
-<img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apbetioli&layout=compact&theme=transparent&update=2" />
+<img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apbetioli&layout=compact&theme=transparent&update=3" />
 </p>
 
