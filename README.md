@@ -6,7 +6,7 @@ I'm a Software Engineer with 15 years of experience in full-stack development wi
 
 I also ventured into co-founding a company, creating a fast site for capturing emails and selling courses. I also fulfilled the roles of content creator, video editor, and marketing specialist. This adventure taught me a lot and improved my soft skills to a new level.
 
-[Check my website](apbetioli.github.io)
+[Check my website](https://apbetioli.github.io)
 
 ## Get in contact!
 
