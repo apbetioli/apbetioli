@@ -2,9 +2,9 @@
 
 My first program was a quiz coded in a Windows 95 ".bat" file, created after long hours exploring files on my computer, trying to understand how programs worked, and using a BASIC programming language book as a resource. When I discovered the internet, I began researching how to create my own video game, which led me to program a first-person shooter game where the gun was a fish that shot fireworks. I found my passion in programming.
 
-I'm a Software Engineer with 15 years of experience in full-stack development with a strong emphasis on front-end, working with various technologies, projects, and teams. I am passionate about solving problems and building solutions independent of the tech stack. I enjoy mentoring new engineers and learning with them.
+Software engineer with over 10 years of experience in full-stack development specializing in front-end, working with various technologies, projects, and teams. I am passionate about solving problems, building solutions independent of the tech stack, and deleting code. I enjoy mentoring new engineers and learning with them.
 
-I also ventured into co-founding a company, creating a fast site for capturing emails and selling courses. I also fulfilled the roles of content creator, video editor, and marketing specialist. This adventure taught me a lot and improved my soft skills to a new level.
+In the meantime, I ventured into co-founding a company, creating a fast site for capturing emails and selling courses. I also fulfilled the roles of content creator, video editor, and marketing specialist.
 
 [Check my website](https://apbetioli.github.io)
 
