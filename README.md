@@ -11,10 +11,8 @@ Want to know a bit about me? [Check my website](https://apbetioli.github.io)
 ## Some highlights
 
 - 🔭 I’m currently working on **AI tools for ExplosionAI**
-- 🌱 I’m ~currently~ always learning **Javascript**
-- 👯 I’m looking to collaborate on **open source**
-- 👽 Fun fact: I built many 3d printers from scratch and have a [youtube channel](https://www.youtube.com/channel/UCsW8AqQR62iwXoiWYfe-ovA) **teaching 3d printing**
-- 🎮 I built: A [Unity editor tool](https://assetstore.unity.com/packages/tools/level-design/moving-platform-maker-2d-71886) to **help you create 2D moving platforms** for your game
+- 🎮 I built a [Unity editor tool](https://assetstore.unity.com/packages/tools/level-design/moving-platform-maker-2d-71886) to **help you create 2D moving platforms** for your game
+- 👽 I built many 3d printers from scratch and have a [youtube channel](https://www.youtube.com/channel/UCsW8AqQR62iwXoiWYfe-ovA) **teaching 3d printing**
 
 <!--
 ## 📖 Read my blog:
