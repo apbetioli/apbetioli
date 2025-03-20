@@ -1,12 +1,13 @@
 # Hi, I'm Alexandre 👋
 
-Want to know a bit about me? [Check my website](https://apbetioli.dev)
+https://apbetioli.dev
 
-## Get in contact!
+## 🏆 My stats:
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/apbetioli/)
-[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/apbetioli)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:apbetioli@gmail.com)
+<p>
+<img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=apbetioli&show_icons=true&count_private=true&theme=transparent&rank_icon=github&hide=contribs&update=5" />
+<img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apbetioli&layout=compact&theme=transparent&update=5" />
+</p>
 
 ## Some highlights
 
@@ -21,10 +22,8 @@ Want to know a bit about me? [Check my website](https://apbetioli.dev)
 </p>
 -->
 
-## 🏆 My stats:
+## Get in contact!
 
-<p>
-<img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=apbetioli&show_icons=true&count_private=true&theme=transparent&rank_icon=github&hide=contribs" />
-<img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apbetioli&layout=compact&theme=transparent&update=4" />
-</p>
-
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/apbetioli/)
+[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/apbetioli)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:apbetioli@gmail.com)
