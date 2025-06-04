@@ -12,7 +12,7 @@ https://apbetioli.dev
 ## Some highlights
 
 - 🎮 I built a [Unity editor tool](https://assetstore.unity.com/packages/tools/level-design/moving-platform-maker-2d-71886) to **help you create 2D moving platforms** for your game
-- 👽 I built many 3d printers from scratch and have a [youtube channel](https://www.youtube.com/channel/UCsW8AqQR62iwXoiWYfe-ovA) **teaching 3d printing**
+- 👽 I built many 3d printers from scratch and have a [youtube channel](https://www.youtube.com/channel/UCsW8AqQR62iwXoiWYfe-ovA) **about 3d printing (in pt-BR)**
 
 <!--
 ## 📖 Read my blog:
